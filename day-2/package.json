@@ -4,5 +4,8 @@
   "description": "Learning Express.js in day 2",
   "main": "app.js",
   "author": "Suman Adhikari",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

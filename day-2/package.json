@@ -1,0 +1,8 @@
+{
+  "name": "day-2",
+  "version": "1.0.0",
+  "description": "Learning Express.js in day 2",
+  "main": "app.js",
+  "author": "Suman Adhikari",
+  "license": "MIT"
+}
